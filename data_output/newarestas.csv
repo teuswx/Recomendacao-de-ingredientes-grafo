@@ -1,0 +1,769 @@
+source,target,weight
+garlic,purple onion,399
+milk,vegetable oil,219
+milk,eggs,734
+milk,tomatoes,78
+milk,green tomatoes,13
+vegetable oil,eggs,463
+vegetable oil,tomatoes,326
+vegetable oil,green tomatoes,30
+eggs,tomatoes,143
+eggs,green tomatoes,26
+tomatoes,green tomatoes,5
+green chilies,eggs,41
+green chilies,yellow onion,12
+green chilies,cooking oil,20
+eggs,yellow onion,78
+eggs,cooking oil,51
+yellow onion,cooking oil,17
+milk,natural yogurt,2
+milk,oil,113
+milk,bay leaf,39
+milk,onions,332
+milk,shallots,31
+natural yogurt,oil,1
+natural yogurt,bay leaf,1
+natural yogurt,onions,13
+natural yogurt,shallots,1
+oil,bay leaf,80
+oil,onions,728
+oil,shallots,70
+bay leaf,onions,461
+bay leaf,shallots,51
+onions,shallots,90
+milk,powdered sugar,91
+milk,ground ginger,23
+milk,ground cinnamon,142
+milk,sugar,598
+powdered sugar,ground ginger,13
+powdered sugar,eggs,87
+powdered sugar,ground cinnamon,67
+powdered sugar,sugar,203
+ground ginger,eggs,57
+ground ginger,ground cinnamon,181
+ground ginger,sugar,103
+eggs,ground cinnamon,182
+eggs,sugar,732
+ground cinnamon,sugar,291
+garlic,bay leaf,294
+garlic,sugar,819
+garlic,ground cinnamon,157
+garlic,onions,2659
+ground cinnamon,onions,239
+tomatoes,onions,1209
+vegetable oil,chicken broth,233
+sugar,chicken broth,107
+vegetable oil,garlic,936
+vegetable oil,oil,55
+vegetable oil,onions,1182
+garlic,oil,568
+potatoes,chicken broth,43
+potatoes,bacon,40
+potatoes,onions,546
+chicken broth,bacon,56
+chicken broth,onions,638
+bacon,onions,241
+vegetable oil,shallots,221
+eggs,shallots,59
+sugar,cooking oil,110
+cooking oil,chicken broth,20
+salami,Oscar Mayer Deli Fresh Smoked Ham,1
+salami,hoagie rolls,2
+salami,giardiniera,2
+salami,mozzarella cheese,13
+Oscar Mayer Deli Fresh Smoked Ham,hoagie rolls,1
+Oscar Mayer Deli Fresh Smoked Ham,giardiniera,1
+Oscar Mayer Deli Fresh Smoked Ham,mozzarella cheese,1
+hoagie rolls,giardiniera,2
+hoagie rolls,mozzarella cheese,2
+giardiniera,mozzarella cheese,2
+lemon olive oil,sugar,1
+bacon drippings,vegetable oil,3
+bacon drippings,white cornmeal,8
+bacon drippings,buttermilk,17
+bacon drippings,sugar,12
+bacon drippings,onions,20
+vegetable oil,white cornmeal,26
+vegetable oil,buttermilk,130
+vegetable oil,sugar,747
+white cornmeal,buttermilk,49
+white cornmeal,sugar,48
+white cornmeal,onions,7
+buttermilk,sugar,304
+buttermilk,onions,51
+sugar,onions,674
+crawfish,garlic,36
+crawfish,cream cheese,7
+garlic,cream cheese,68
+sugar,yellow onion,99
+lemon,pesto,5
+allspice,fresh thyme,12
+allspice,garlic,32
+allspice,yellow onion,6
+fresh thyme,garlic,117
+fresh thyme,yellow onion,31
+garlic,yellow onion,472
+potatoes,vegetable oil,132
+1% low-fat milk,leeks,5
+1% low-fat milk,low-fat sour cream,2
+1% low-fat milk,yukon gold potatoes,8
+leeks,low-fat sour cream,1
+leeks,yukon gold potatoes,8
+low-fat sour cream,yukon gold potatoes,1
+cooking oil,garlic,191
+unsweetened coconut milk,rice,3
+unsweetened coconut milk,dry sherry,1
+unsweetened coconut milk,spareribs,1
+unsweetened coconut milk,golden brown sugar,3
+rice,dry sherry,5
+rice,spareribs,1
+rice,golden brown sugar,1
+dry sherry,spareribs,3
+dry sherry,golden brown sugar,1
+spareribs,golden brown sugar,1
+garlic,tomatoes,842
+tomatoes,oil,271
+cream cheese,ground cinnamon,20
+lemon,tomatoes,104
+lemon,shallots,34
+tomatoes,shallots,78
+golden brown sugar,onions,4
+green chilies,garlic,209
+green chilies,sugar,75
+potatoes,eggs,95
+eggs,bacon,80
+eggs,onions,581
+milk,buttermilk,63
+golden brown sugar,ground cinnamon,17
+green chilies,potatoes,102
+green chilies,onions,415
+potatoes,milk,94
+oil,sugar,435
+oil,cooking oil,21
+purple onion,ground cinnamon,45
+garlic,long-grain rice,74
+long-grain rice,sugar,29
+crusty bread,baby potatoes,1
+crusty bread,onions,10
+baby potatoes,onions,9
+eggs,oil,270
+sugar,shallots,229
+yukon gold potatoes,sugar,9
+eggs,chicken broth,106
+milk,cream cheese,70
+long-grain rice,onions,124
+long-grain rice,chicken broth,49
+eggs,buttermilk,182
+lemon,sugar,162
+garlic,chicken broth,493
+garlic,eggs,491
+eggs,purple onion,62
+purple onion,tomatoes,344
+purple onion,sugar,176
+milk,garlic,201
+rice,sugar,62
+cheese,onions,111
+powdered sugar,oil,13
+eggs,cream cheese,67
+green tomatoes,buttermilk,28
+green tomatoes,shallots,2
+buttermilk,shallots,7
+oil,chicken broth,64
+potatoes,sugar,70
+potatoes,buttermilk,9
+garlic,shallots,329
+purple onion,shallots,40
+tomatoes,yellow onion,107
+potatoes,lemon,38
+potatoes,garlic,258
+potatoes,shallots,13
+lemon,garlic,341
+green chilies,lemon,36
+green chilies,tomatoes,195
+low-fat sour cream,onions,11
+powdered sugar,golden brown sugar,6
+eggs,golden brown sugar,4
+milk,chicken broth,65
+lemon,onions,268
+purple onion,oil,50
+lemon,rice,12
+lemon,eggs,110
+lemon,ground cinnamon,70
+rice,eggs,37
+rice,ground cinnamon,5
+rice,onions,193
+ground cinnamon,tomatoes,57
+green chilies,oil,264
+lemon,cooking oil,15
+sugar,golden brown sugar,29
+vegetable oil,ground cinnamon,129
+potatoes,fresh thyme,15
+potatoes,leeks,42
+fresh thyme,leeks,19
+fresh thyme,onions,136
+leeks,onions,102
+ground cinnamon,yellow onion,47
+eggs,cheese,33
+ground cinnamon,bay leaf,23
+lemon,vegetable oil,95
+onions,cream cheese,13
+vegetable oil,yellow onion,164
+shallots,chicken broth,54
+dry sherry,garlic,61
+green chilies,vegetable oil,83
+green chilies,long-grain rice,3
+lemon,long-grain rice,7
+vegetable oil,long-grain rice,66
+eggs,long-grain rice,16
+purple onion,chicken broth,46
+vegetable oil,purple onion,166
+crusty bread,eggs,1
+crusty bread,mozzarella cheese,2
+eggs,mozzarella cheese,90
+tomatoes,chicken broth,93
+cream cheese,sugar,92
+lemon,ground ginger,37
+ground ginger,onions,199
+bacon,shallots,23
+garlic,cheese,80
+allspice,vegetable oil,26
+allspice,sugar,27
+allspice,onions,40
+vegetable oil,fresh thyme,27
+fresh thyme,sugar,16
+lemon,oil,52
+ground cinnamon,oil,29
+vegetable oil,yukon gold potatoes,22
+yukon gold potatoes,onions,59
+vegetable oil,leeks,41
+leeks,shallots,40
+tomatoes,sugar,216
+chicken broth,yellow onion,97
+vegetable oil,ground ginger,96
+ground ginger,garlic,148
+chicken broth,dry sherry,22
+dry sherry,shallots,19
+golden brown sugar,buttermilk,3
+dry sherry,eggs,15
+cream cheese,tomatoes,19
+garlic,mozzarella cheese,104
+yellow onion,mozzarella cheese,13
+powdered sugar,cream cheese,42
+purple onion,cheese,22
+cooking oil,onions,164
+rice,chicken broth,57
+purple onion,long-grain rice,10
+rice,ground ginger,9
+dry sherry,ground ginger,8
+dry sherry,onions,39
+ground ginger,chicken broth,29
+purple onion,mozzarella cheese,14
+ground ginger,tomatoes,39
+ground ginger,yellow onion,28
+yellow onion,bay leaf,67
+bay leaf,fresh thyme,48
+bay leaf,chicken broth,67
+fresh thyme,chicken broth,19
+lemon,chicken broth,44
+cooking oil,tomatoes,54
+milk,yellow onion,39
+milk,bacon,51
+powdered sugar,vegetable oil,54
+ground ginger,buttermilk,9
+ground cinnamon,buttermilk,34
+potatoes,oil,145
+garlic,bacon,165
+lemon,bay leaf,24
+green chilies,chicken broth,27
+tomatoes,cheese,52
+yellow onion,purple onion,26
+leeks,bay leaf,46
+leeks,chicken broth,25
+eggs,white cornmeal,8
+crusty bread,sugar,1
+leeks,yellow onion,11
+milk,lemon,44
+lemon,cream cheese,11
+fresh thyme,cooking oil,8
+cream cheese,bacon,20
+tomatoes,bacon,47
+1% low-fat milk,ground cinnamon,19
+1% low-fat milk,sugar,51
+potatoes,ground ginger,19
+potatoes,tomatoes,134
+lemon,dry sherry,3
+vegetable oil,cream cheese,3
+tomatoes,long-grain rice,27
+unsweetened coconut milk,vegetable oil,60
+unsweetened coconut milk,yukon gold potatoes,3
+unsweetened coconut milk,onions,45
+vegetable oil,bay leaf,95
+lemon,purple onion,78
+ground ginger,purple onion,37
+purple onion,onions,55
+1% low-fat milk,cream cheese,8
+green chilies,purple onion,38
+rice,vegetable oil,59
+rice,purple onion,13
+rice,tomatoes,67
+yellow onion,oil,31
+1% low-fat milk,oil,1
+sugar,bay leaf,57
+tomatoes,bay leaf,130
+green chilies,bacon,3
+unsweetened coconut milk,garlic,35
+unsweetened coconut milk,tomatoes,10
+unsweetened coconut milk,cooking oil,12
+rice,garlic,156
+rice,bacon,8
+rice,bay leaf,33
+bacon,bay leaf,24
+garlic,yukon gold potatoes,30
+eggs,leeks,30
+long-grain rice,bay leaf,19
+purple onion,leeks,9
+tomatoes,leeks,34
+purple onion,yukon gold potatoes,15
+rice,oil,67
+crawfish,purple onion,4
+milk,dry sherry,9
+vegetable oil,dry sherry,43
+long-grain rice,shallots,8
+buttermilk,oil,33
+fresh thyme,shallots,30
+fresh thyme,long-grain rice,12
+ground ginger,cooking oil,6
+green chilies,baby potatoes,3
+milk,leeks,25
+lemon,fresh thyme,21
+cream cheese,chicken broth,22
+lemon,yukon gold potatoes,10
+tomatoes,mozzarella cheese,54
+milk,cooking oil,17
+cream cheese,cooking oil,2
+bacon,cooking oil,8
+milk,purple onion,29
+garlic,leeks,81
+leeks,sugar,24
+green tomatoes,onions,15
+bacon drippings,milk,8
+ground ginger,oil,31
+onions,mozzarella cheese,96
+bacon drippings,potatoes,3
+bacon drippings,bacon,8
+sugar,cheese,22
+dry sherry,sugar,53
+yellow onion,shallots,23
+shallots,cooking oil,26
+lemon,leeks,8
+milk,white cornmeal,13
+green chilies,milk,35
+fresh thyme,tomatoes,37
+bacon,buttermilk,21
+potatoes,cooking oil,34
+mozzarella cheese,shallots,7
+mozzarella cheese,cheese,5
+fresh thyme,bacon,17
+potatoes,ground cinnamon,18
+allspice,purple onion,8
+allspice,oil,5
+tomatoes,pesto,10
+pesto,onions,16
+bacon,cheese,10
+unsweetened coconut milk,buttermilk,1
+garlic,buttermilk,33
+potatoes,purple onion,33
+crawfish,eggs,6
+crawfish,buttermilk,3
+crawfish,sugar,3
+vegetable oil,cooking oil,6
+yellow onion,cream cheese,2
+leeks,cooking oil,3
+ground ginger,long-grain rice,10
+long-grain rice,ground cinnamon,9
+cream cheese,mozzarella cheese,9
+powdered sugar,cheese,2
+vegetable oil,cheese,23
+bacon,long-grain rice,6
+potatoes,dry sherry,2
+pesto,yellow onion,2
+long-grain rice,cooking oil,14
+salami,eggs,9
+bacon,oil,10
+purple onion,golden brown sugar,3
+1% low-fat milk,shallots,5
+unsweetened coconut milk,sugar,26
+unsweetened coconut milk,shallots,24
+rice,yellow onion,29
+lemon,yellow onion,38
+green chilies,cream cheese,10
+cheese,cream cheese,13
+low-fat sour cream,chicken broth,1
+cream cheese,oil,10
+crawfish,onions,45
+low-fat sour cream,sugar,6
+milk,crawfish,5
+vegetable oil,crawfish,15
+dry sherry,oil,11
+purple onion,bay leaf,30
+powdered sugar,buttermilk,28
+potatoes,bay leaf,52
+salami,vegetable oil,5
+salami,sugar,2
+rice,cooking oil,17
+ground cinnamon,chicken broth,31
+dry sherry,bacon,4
+cream cheese,buttermilk,26
+tomatoes,buttermilk,14
+green chilies,shallots,17
+golden brown sugar,vegetable oil,9
+ground cinnamon,cooking oil,9
+bacon drippings,tomatoes,2
+low-fat sour cream,rice,1
+low-fat sour cream,garlic,9
+crawfish,yellow onion,6
+bay leaf,cooking oil,9
+lemon,buttermilk,20
+leeks,bacon,14
+yellow onion,onions,14
+green tomatoes,oil,11
+fresh thyme,crawfish,2
+crawfish,chicken broth,13
+milk,fresh thyme,10
+fresh thyme,buttermilk,4
+lemon,bacon,15
+yukon gold potatoes,yellow onion,25
+potatoes,yukon gold potatoes,2
+eggs,bay leaf,30
+lemon,crawfish,10
+ground ginger,yukon gold potatoes,6
+tomatoes,yukon gold potatoes,12
+unsweetened coconut milk,chicken broth,13
+potatoes,yellow onion,37
+milk,cheese,27
+white cornmeal,oil,2
+bacon drippings,garlic,12
+1% low-fat milk,onions,11
+crawfish,bay leaf,5
+green tomatoes,sugar,18
+purple onion,bacon,24
+unsweetened coconut milk,fresh thyme,3
+unsweetened coconut milk,long-grain rice,11
+leeks,cheese,7
+leeks,pesto,2
+cheese,shallots,10
+1% low-fat milk,powdered sugar,14
+ground ginger,golden brown sugar,6
+bacon,yellow onion,36
+lemon,1% low-fat milk,1
+sugar,mozzarella cheese,24
+purple onion,pesto,3
+cheese,chicken broth,20
+pesto,mozzarella cheese,14
+lemon,powdered sugar,17
+eggs,pesto,6
+vegetable oil,bacon,47
+fresh thyme,dry sherry,4
+leeks,oil,11
+eggs,low-fat sour cream,2
+low-fat sour cream,pesto,1
+low-fat sour cream,mozzarella cheese,1
+fresh thyme,eggs,13
+allspice,tomatoes,11
+oil,cheese,21
+dry sherry,leeks,2
+allspice,ground cinnamon,12
+fresh thyme,ground cinnamon,10
+bacon drippings,lemon,1
+bacon drippings,eggs,6
+green chilies,buttermilk,6
+ground ginger,leeks,3
+golden brown sugar,shallots,2
+green chilies,rice,44
+1% low-fat milk,purple onion,5
+hoagie rolls,onions,4
+sugar,bacon,38
+vegetable oil,mozzarella cheese,27
+fresh thyme,purple onion,14
+spareribs,garlic,4
+long-grain rice,yellow onion,21
+allspice,ground ginger,14
+eggs,yukon gold potatoes,9
+ground cinnamon,yukon gold potatoes,5
+milk,long-grain rice,7
+baby potatoes,eggs,1
+baby potatoes,purple onion,3
+baby potatoes,shallots,1
+fresh thyme,yukon gold potatoes,3
+green chilies,natural yogurt,3
+natural yogurt,vegetable oil,3
+natural yogurt,purple onion,1
+milk,mozzarella cheese,20
+milk,rice,12
+bay leaf,green chilies,47
+lemon,baby potatoes,2
+low-fat sour cream,cream cheese,1
+yukon gold potatoes,chicken broth,5
+rice,cheese,5
+milk,golden brown sugar,1
+tomatoes,1% low-fat milk,3
+oil,mozzarella cheese,14
+potatoes,rice,14
+shallots,yukon gold potatoes,15
+rice,fresh thyme,5
+allspice,bacon,5
+shallots,ground cinnamon,17
+green chilies,cheese,10
+bacon drippings,ground cinnamon,1
+garlic,pesto,17
+ground ginger,shallots,15
+dry sherry,bay leaf,9
+milk,allspice,8
+dry sherry,cooking oil,6
+dry sherry,white cornmeal,1
+dry sherry,buttermilk,1
+green chilies,ground cinnamon,11
+bay leaf,cheese,10
+vegetable oil,low-fat sour cream,8
+1% low-fat milk,garlic,7
+1% low-fat milk,eggs,3
+rice,crawfish,3
+ground ginger,cream cheese,2
+purple onion,buttermilk,10
+ground ginger,bay leaf,12
+fresh thyme,oil,9
+buttermilk,yellow onion,12
+baby potatoes,ground ginger,3
+baby potatoes,oil,5
+garlic,green tomatoes,6
+crawfish,shallots,4
+buttermilk,cooking oil,3
+ground ginger,green tomatoes,3
+crusty bread,tomatoes,5
+pesto,sugar,2
+pesto,buttermilk,2
+yellow onion,white cornmeal,1
+garlic,giardiniera,2
+mozzarella cheese,chicken broth,15
+bacon drippings,oil,2
+bacon drippings,cheese,1
+bacon drippings,green tomatoes,1
+bacon drippings,cream cheese,1
+green tomatoes,cream cheese,1
+dry sherry,cream cheese,3
+crusty bread,garlic,10
+crusty bread,shallots,2
+hoagie rolls,tomatoes,4
+bacon,green tomatoes,6
+bay leaf,mozzarella cheese,7
+oil,pesto,4
+unsweetened coconut milk,milk,4
+unsweetened coconut milk,yellow onion,9
+vegetable oil,spareribs,1
+ground ginger,spareribs,1
+1% low-fat milk,mozzarella cheese,2
+yukon gold potatoes,mozzarella cheese,1
+unsweetened coconut milk,ground cinnamon,3
+crusty bread,bay leaf,1
+crawfish,tomatoes,4
+dry sherry,yellow onion,8
+1% low-fat milk,vegetable oil,5
+salami,purple onion,4
+milk,yukon gold potatoes,11
+golden brown sugar,tomatoes,1
+rice,shallots,17
+crawfish,long-grain rice,4
+ground cinnamon,low-fat sour cream,1
+cream cheese,leeks,2
+yellow onion,cheese,12
+yukon gold potatoes,oil,5
+unsweetened coconut milk,oil,3
+allspice,bay leaf,7
+1% low-fat milk,dry sherry,3
+cream cheese,purple onion,10
+1% low-fat milk,ground ginger,2
+dry sherry,ground cinnamon,5
+unsweetened coconut milk,purple onion,9
+lemon,salami,1
+salami,oil,2
+salami,onions,5
+purple onion,cooking oil,16
+powdered sugar,cooking oil,1
+powdered sugar,onions,6
+fresh thyme,ground ginger,6
+bacon drippings,bay leaf,3
+dry sherry,tomatoes,5
+yukon gold potatoes,bay leaf,9
+potatoes,cream cheese,3
+potatoes,mozzarella cheese,6
+bacon,mozzarella cheese,5
+allspice,eggs,14
+allspice,rice,6
+buttermilk,bay leaf,6
+bacon drippings,shallots,1
+white cornmeal,bacon,3
+rice,leeks,2
+allspice,chicken broth,5
+spareribs,sugar,3
+buttermilk,chicken broth,7
+rice,buttermilk,2
+low-fat sour cream,shallots,1
+golden brown sugar,bay leaf,2
+golden brown sugar,mozzarella cheese,2
+dry sherry,yukon gold potatoes,1
+lemon,low-fat sour cream,1
+purple onion,low-fat sour cream,6
+fresh thyme,spareribs,1
+spareribs,bacon,1
+spareribs,onions,3
+spareribs,chicken broth,1
+purple onion,green tomatoes,6
+crawfish,bacon,3
+baby potatoes,bay leaf,2
+potatoes,natural yogurt,3
+milk,hoagie rolls,1
+hoagie rolls,eggs,1
+pesto,cheese,3
+powdered sugar,chicken broth,1
+garlic,white cornmeal,1
+white cornmeal,tomatoes,1
+potatoes,long-grain rice,5
+crusty bread,lemon,3
+crusty bread,oil,1
+shallots,cream cheese,5
+lemon,mozzarella cheese,2
+fresh thyme,mozzarella cheese,6
+green tomatoes,yellow onion,4
+pesto,shallots,1
+green chilies,dry sherry,2
+1% low-fat milk,green tomatoes,1
+cream cheese,pesto,5
+allspice,shallots,3
+baby potatoes,cooking oil,1
+potatoes,allspice,4
+allspice,cooking oil,2
+bacon drippings,chicken broth,3
+hoagie rolls,garlic,3
+vegetable oil,pesto,2
+hoagie rolls,purple onion,1
+hoagie rolls,shallots,1
+fresh thyme,pesto,1
+white cornmeal,cheese,2
+natural yogurt,tomatoes,5
+potatoes,cheese,9
+lemon,cheese,4
+long-grain rice,oil,5
+fresh thyme,cheese,2
+low-fat sour cream,tomatoes,1
+pesto,chicken broth,3
+crawfish,oil,1
+1% low-fat milk,crawfish,1
+pesto,cooking oil,2
+mozzarella cheese,cooking oil,3
+salami,garlic,6
+salami,cooking oil,2
+dry sherry,long-grain rice,3
+low-fat sour cream,yellow onion,2
+long-grain rice,cream cheese,1
+long-grain rice,mozzarella cheese,1
+dry sherry,purple onion,4
+ground cinnamon,green tomatoes,4
+natural yogurt,lemon,2
+natural yogurt,garlic,4
+baby potatoes,tomatoes,4
+lemon,green tomatoes,3
+white cornmeal,low-fat sour cream,1
+rice,long-grain rice,2
+natural yogurt,ground ginger,2
+powdered sugar,long-grain rice,1
+green chilies,mozzarella cheese,3
+powdered sugar,garlic,2
+unsweetened coconut milk,eggs,1
+green chilies,yukon gold potatoes,1
+natural yogurt,cooking oil,1
+green chilies,allspice,1
+natural yogurt,ground cinnamon,2
+powdered sugar,purple onion,1
+crusty bread,purple onion,2
+allspice,cream cheese,1
+rice,cream cheese,1
+crawfish,ground ginger,1
+1% low-fat milk,cheese,2
+green chilies,ground ginger,4
+crawfish,leeks,2
+crawfish,cooking oil,2
+crusty bread,crawfish,1
+crusty bread,cream cheese,1
+1% low-fat milk,bay leaf,2
+fresh thyme,green tomatoes,2
+milk,low-fat sour cream,1
+1% low-fat milk,bacon,1
+ground cinnamon,cheese,1
+green chilies,1% low-fat milk,1
+1% low-fat milk,yellow onion,1
+crusty bread,ground cinnamon,1
+milk,pesto,2
+unsweetened coconut milk,green chilies,2
+buttermilk,cheese,1
+unsweetened coconut milk,lemon,1
+allspice,mozzarella cheese,1
+salami,shallots,1
+lemon,allspice,3
+cream cheese,yukon gold potatoes,1
+leeks,mozzarella cheese,1
+cheese,cooking oil,3
+potatoes,1% low-fat milk,2
+allspice,powdered sugar,2
+crawfish,cheese,1
+vegetable oil,hoagie rolls,1
+bacon drippings,fresh thyme,2
+vegetable oil,giardiniera,1
+giardiniera,onions,2
+white cornmeal,green tomatoes,2
+salami,cheese,1
+1% low-fat milk,golden brown sugar,1
+unsweetened coconut milk,ground ginger,2
+1% low-fat milk,allspice,1
+vegetable oil,baby potatoes,1
+leeks,ground cinnamon,1
+crusty bread,golden brown sugar,1
+cream cheese,golden brown sugar,1
+white cornmeal,bay leaf,1
+white cornmeal,chicken broth,1
+yukon gold potatoes,bacon,2
+ground ginger,bacon,1
+potatoes,pesto,1
+bacon drippings,yellow onion,1
+fresh thyme,white cornmeal,1
+natural yogurt,sugar,1
+giardiniera,oil,1
+low-fat sour cream,cheese,2
+mozzarella cheese,ground cinnamon,1
+mozzarella cheese,buttermilk,1
+spareribs,cooking oil,1
+natural yogurt,eggs,1
+potatoes,crawfish,1
+allspice,leeks,1
+pesto,bay leaf,1
+unsweetened coconut milk,powdered sugar,1
+unsweetened coconut milk,cream cheese,1
+bacon drippings,giardiniera,1
+giardiniera,bay leaf,1
+allspice,yukon gold potatoes,1
+bacon drippings,ground ginger,1
+potatoes,salami,1
+green chilies,salami,1
+salami,tomatoes,1
+green chilies,leeks,1
+yellow onion,baby potatoes,1
+leeks,baby potatoes,1
+baby potatoes,garlic,1
+salami,pesto,1
+powdered sugar,low-fat sour cream,1
+green chilies,fresh thyme,1
+rice,mozzarella cheese,1
+hoagie rolls,yellow onion,1
+milk,Oscar Mayer Deli Fresh Smoked Ham,1
+Oscar Mayer Deli Fresh Smoked Ham,garlic,2
+Oscar Mayer Deli Fresh Smoked Ham,eggs,1
+Oscar Mayer Deli Fresh Smoked Ham,onions,1
