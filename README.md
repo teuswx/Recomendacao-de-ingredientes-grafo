@@ -4,7 +4,7 @@
         Criado em novembro de 2023, o projeto de<strong> Recomendação de Ingredientes com Base na Frequência de Utilização em Determinada Culinária</strong> foi desenvolvido em virtude de atender as demandas do curso de Algoritimo e Estrutura de Dados, ministrado pelo professor <a href="https://www.linkedin.com/in/michelpiressilva/?originalSubdomain=br" target="_blank">Michel Pires Da Silva</a> no Centro Federal de Educação Tecnológica de Minas Gerais (<a href="https://www.divinopolis.cefetmg.br/" target="_blank">CEFET-MG</a>).
     </p>
     <p>
-        <a href="https://github.com/LuanLuL/Instalacao_Clientes/blob/main/documentation/Trabalho_final_AEDSII_TEMPLETE.pdf" target="_blank">Acesse a documentação [AQUI]</a>
+        <a href="https://github.com/teuswx/Recomendacao-de-ingredientes-grafo/tree/main/documentation" target="_blank">Acesse a documentação [AQUI]</a>
     </p>
 </section>
 </section>
